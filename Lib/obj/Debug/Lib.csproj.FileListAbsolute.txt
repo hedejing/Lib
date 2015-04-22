@@ -1,0 +1,9 @@
+c:\users\dejin\documents\visual studio 2013\Projects\Lib\Lib\bin\Debug\Lib.exe.config
+C:\Users\dejin\documents\visual studio 2013\Projects\Lib\Lib\bin\Debug\Lib.exe
+C:\Users\dejin\documents\visual studio 2013\Projects\Lib\Lib\bin\Debug\Lib.pdb
+C:\Users\dejin\documents\visual studio 2013\Projects\Lib\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\Users\dejin\documents\visual studio 2013\Projects\Lib\Lib\obj\Debug\Lib.Form1.resources
+C:\Users\dejin\documents\visual studio 2013\Projects\Lib\Lib\obj\Debug\Lib.Properties.Resources.resources
+C:\Users\dejin\documents\visual studio 2013\Projects\Lib\Lib\obj\Debug\Lib.csproj.GenerateResource.Cache
+C:\Users\dejin\documents\visual studio 2013\Projects\Lib\Lib\obj\Debug\Lib.exe
+C:\Users\dejin\documents\visual studio 2013\Projects\Lib\Lib\obj\Debug\Lib.pdb
